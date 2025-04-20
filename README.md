@@ -6,7 +6,7 @@ A data analysis and regression-based prediction project exploring regional video
 
 ## 📁 Dataset
 
-- **Source:** [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings)
+- **Source:** Kaggle - Video Game Sales
 - **Fields:** Name, Platform, Year, Genre, Publisher, Sales (NA/EU/JP/Other/Global)
 
 ---
